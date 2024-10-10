@@ -1,12 +1,8 @@
-# Your Name Her
+# Forrest Siminoe
 # UWYO COSC 1010
-# Submission Date
+# 10/13/244
 # Lab 03 
-# Lab Section: 
-# Sources, people worked with, help given to: 
-# your
-# comments
-# here
+# Lab Section: 13
 
 max_temps = [
     32, 24, 22, 25, 37, 33, 34, 40, 40, 42,
